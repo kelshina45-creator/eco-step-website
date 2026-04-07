@@ -78,6 +78,8 @@ It reflects my interest in sustainability, design, and building interactive web 
 2. Open `index.html` in your browser
 
 ---
+🌐 The website is available here: [View the landing page] (https://kelshina45-creator.github.io/eco-step-website/)
+
 
 ## 👩‍💻 Author
 
